@@ -5,6 +5,7 @@
 | 文件 | 内容 |
 | --- | --- |
 | `proteus/amplifier.pdsprj` | 基础运放放大电路（偏置、增益、反馈） |
+| `proteus/amplifier-alt.pdsprj` | 另一版本的基础运放放大电路 |
 | `proteus/audio-amp.pdsprj` | 音频放大电路（交流耦合、增益级、输出级） |
 
 ## 使用
